@@ -21,7 +21,7 @@ Hi, I'm an Systems Engineer. 🤝
 
 ## 📨 Contact me.
 
-**[X-Twitter @TakaakiU_81z](https://x.com/takaakiu_81z)** | **[Portfolio Web](https://takaakiu/github.io)**
+**[X-Twitter @TakaakiU_81z](https://x.com/takaakiu_81z)** | **[Portfolio Web](https://takaakiu.github.io)**
 
 <!--
 **TakaakiU/TakaakiU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
