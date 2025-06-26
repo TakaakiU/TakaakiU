@@ -6,10 +6,10 @@ Hi, I'm an Systems Engineer. 🤝
 ### 🌱 my skills
 
 #### 👨‍💻 Used professinally
-<img alt="my skills - Used professinally" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cs,py,dotnet,azure,mysql,powershell,bash,vscode,visualstudio,windows,linux,redhat" />
+<img alt="my skills - Used professinally" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cs,py,dotnet,mysql,azure,windows,linux,redhat,powershell,bash,vscode,visualstudio" />
 
 #### ⛱ Used personally
-<img alt="my skills - Used personally" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,java,js,php,dart,swift,cpp,md,latex,jquery,flutter,qt,nodejs,npm,git,github,gitlab,docker,kubernetes,cloudflare,eclipse,apple,ubuntu,debian,wordpress,notion" />
+<img alt="my skills - Used personally" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,js,ts,php,dart,swift,cpp,html,css,react,jquery,vite,md,nodejs,npm,flutter,qt,postgres,aws,firebase,docker,kubernetes,cloudflare,apple,ubuntu,debian,git,github,gitlab,wordpress,eclipse,notion,obsidian,latex" />
 
 ## 📈 Status
 <p align="left"> 
